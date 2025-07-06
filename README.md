@@ -25,8 +25,8 @@ Perfect for:
 ## 🚀 Quick Start
 
 ### 1. Clone Repository
-git https://github.com/danielbangm/kubernetes-pull-requests-names-count.git
-cd kubernetes-pull-requests-names-count.git
+- git clone "https://github.com/danielbangm/kubernetes-pull-requests-names-count.git"
+- cd kubernetes-pull-requests-names-count.git
 
 ---
 
